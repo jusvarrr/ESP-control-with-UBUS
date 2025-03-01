@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "typeinfo": "c",
+        "esp_control.h": "c",
+        "stdlib.h": "c",
+        "interface.h": "c",
+        "libubus.h": "c",
+        "stdio.h": "c",
+        "ubus_serial_esp.h": "c",
+        "blobmsg_json.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "ranges": "c",
+        "send_esp_json.h": "c"
+    }
+}
